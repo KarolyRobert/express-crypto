@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const rsaWrapper = require("./src/rsa-wrapper");
 const path = require("path");
 const fs = require("fs");
