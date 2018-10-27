@@ -1,0 +1,25 @@
+{
+  "name": "express-crypto",
+  "version": "0.0.1",
+  "description": "Express middleware for rsa/aes ajax trafic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolyRobert/express-crypto.git"
+  },
+  "keywords": [
+    "rsa",
+    "aes",
+    "express",
+    "middleware"
+  ],
+  "author": "RoGeR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolyRobert/express-crypto/issues"
+  },
+  "homepage": "https://github.com/KarolyRobert/express-crypto#readme"
+}
