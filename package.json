@@ -1,6 +1,6 @@
 {
   "name": "roger-express-crypto",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Express middleware for rsa/aes ajax trafic.",
   "main": "index.js",
   "scripts": {
