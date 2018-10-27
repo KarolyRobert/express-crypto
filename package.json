@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/KarolyRobert/express-crypto/issues"
   },
-  "homepage": "https://github.com/KarolyRobert/express-crypto#readme"
+  "homepage": "https://github.com/KarolyRobert/express-crypto#readme",
+  "dependencies": {
+    "node-rsa": "^1.0.1"
+  }
 }
