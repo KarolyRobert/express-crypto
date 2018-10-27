@@ -13,9 +13,11 @@
   "keywords": [
     "rsa",
     "aes",
-    "express",
-    "middleware"
+    "express-middleware"
   ],
+  "bin": {
+    "express-crypto-keygen": "./keygen.js"
+  },
   "author": "RoGeR",
   "license": "ISC",
   "bugs": {
