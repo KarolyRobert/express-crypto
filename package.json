@@ -16,7 +16,7 @@
     "express-middleware"
   ],
   "bin": {
-    "express-crypto-keygen": "./keygen.js"
+    "roger-express-crypto": "./keygen.js"
   },
   "author": "RoGeR",
   "license": "ISC",
