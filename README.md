@@ -20,7 +20,7 @@ Az projekt `package.json -> scripts` szekciójában fel kell venni a kulcsok gen
 ```
 
 Futtatás pl:
-`npm run keys 2048`
+`npm run keygen keys 2048`
 Ezzel a parancsal létrejön a projekt gyökér könyvtárában egy keys könyvtár ahol a kulcsok ezután megtalálhatók lesznek.
 
 ### A middleware.
